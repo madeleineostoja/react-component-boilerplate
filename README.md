@@ -1,11 +1,12 @@
 # React Component Boilerplate
 
-Lightweight boilerplate for scaffolding modern React components with:
+Lightweight boilerplate for scaffolding modern React components..
 
-- Rollup preconfigured with CJS + ESM builds
+#### Features
+
+- Rollup with CJS + ESM builds
 - Typescript support
-- Storybook documentation
-- Jest testing
+- Storybook API docs
 
 Run [SAO](https://saojs.org/) and follow the prompts to scaffold out a fresh compnent boilerplate.
 
