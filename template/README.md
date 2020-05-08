@@ -12,7 +12,7 @@ npm i <%= packageName %>
 
 ## Usage
 
-See the [API Docs](https://<%= githubOrg %>.github.io/<%= packageName %>/?path=/docs/api-demo--default) for a full overview of props and options.
+See the [API Docs](https://<%= githubOrg %>.github.io/<%= packageName %>/) for a full overview of props and options.
 
 ```js
 import React from 'react';
