@@ -1,4 +1,5 @@
 import { Meta } from '@storybook/addon-docs/blocks';
+import { linkTo } from '@storybook/addon-links';
 import { <%= name %> } from '.';
 
 <Meta title="Overview" component={<%= name %>} />
@@ -17,7 +18,7 @@ npm i <%= packageName %>
 
 ## Usage
 
-See the [API Docs](/?path=/docs/api-demo--default) for a full overview of props and options.
+See the <a onClick={linkTo('API & Demo')}>API Docs</a> for a full overview of props and options.
 
 ```js
 import React from 'react';
