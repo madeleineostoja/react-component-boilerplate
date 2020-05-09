@@ -8,7 +8,7 @@ Lightweight boilerplate for scaffolding modern React components..
 - Typescript support
 - Storybook API docs
 
-Run [SAO](https://saojs.org/) and follow the prompts to scaffold out a fresh compnent boilerplate.
+Run [sao](https://saojs.org/) and follow the prompts to scaffold out a fresh compnent boilerplate.
 
 ```sh
 npx sao radioactivepesto/react-component .
