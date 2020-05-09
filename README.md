@@ -14,7 +14,7 @@ Lightweight boilerplate for scaffolding modern React components..
 Scaffold the boilerplate with [sao](https://saojs.org/) and follow the prompts.
 
 ```sh
-npx sao radioactivepesto/react-component .
+npx sao seaneking/react-component-boilerplate
 ```
 
 Or parse the files in `/template` with [ejs](https://ejs.co/), and pass in the variables promtped for in `/saofile.js`.
