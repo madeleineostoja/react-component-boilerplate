@@ -1,6 +1,6 @@
 # React Component Boilerplate
 
-Lightweight boilerplate for scaffolding modern React components..
+Lightweight boilerplate for scaffolding modern React components.
 
 ### Features
 
