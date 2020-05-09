@@ -2,16 +2,19 @@
 
 Lightweight boilerplate for scaffolding modern React components..
 
-#### Features
+### Features
 
 - Rollup with CJS + ESM builds
 - Typescript support
 - Storybook API docs
 
-Run [sao](https://saojs.org/) and follow the prompts to scaffold out a fresh compnent boilerplate.
+
+## Usage
+
+Scaffold the boilerplate with [sao](https://saojs.org/) and follow the prompts.
 
 ```sh
 npx sao radioactivepesto/react-component .
 ```
 
-Or parse the files in `/template` with your [ejs](https://ejs.co/) runner of choice.
+Or parse the files in `/template` with [ejs](https://ejs.co/), and pass in the variables promtped for in `/saofile.js`.
