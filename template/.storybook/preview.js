@@ -12,7 +12,7 @@ addParameters({
   options: {
     theme: create({
       base: 'light',
-      brandTitle: <%= name %>
+      brandTitle: '<%= name %>'
     })
   }
 });
