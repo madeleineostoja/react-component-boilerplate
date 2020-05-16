@@ -24,7 +24,7 @@
   "keywords": [
     "react"
   ],
-  "author": "Radioactive Pesto (https://radioactivepesto.com)",
+  "author": "<%= author %>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/<%= githubOrg %>/<%= packageName %>/issues"
