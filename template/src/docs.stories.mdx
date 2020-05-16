@@ -1,7 +1,6 @@
 import { Meta } from '@storybook/addon-docs/blocks';
 import { linkTo } from '@storybook/addon-links';
 import { <%= name %> } from '.';
-
 <Meta title="Overview" component={<%= name %>} />
 
 # <%= title %>
@@ -24,5 +23,5 @@ See the <a onClick={linkTo('API & Demo')}>API Docs</a> for a full overview of pr
 import React from 'react';
 import { <%= name %> } from '<%= packageName %>';
 
-export default () => <<% name %> />;
+export default () => <<%= name %> />;
 ```

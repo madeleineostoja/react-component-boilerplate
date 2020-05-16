@@ -18,5 +18,5 @@ See the [API Docs](https://<%= githubOrg %>.github.io/<%= packageName %>/) for a
 import React from 'react';
 import { <%= name %> } from '<%= packageName %>';
 
-export default () => <<% name %> />;
+export default () => <<%= name %> />;
 ```
