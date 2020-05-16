@@ -22,14 +22,7 @@
     "url": "git+https://github.com/<%= githubOrg %>/<%= packageName %>.git"
   },
   "keywords": [
-    "css-in-js",
-    "emotion",
-    "styled-components",
-    "css-utilities",
-    "css",
-    "jss",
-    "react",
-    "functional-css"
+    "react"
   ],
   "author": "Radioactive Pesto (https://radioactivepesto.com)",
   "license": "MIT",
